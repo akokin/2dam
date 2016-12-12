@@ -30,7 +30,8 @@ public class Ejercicio1 {
  	 		}
 	      br.close();
       }catch(Exception e) {
-         System.out.println("Error en: "+comando);
+         System.out.println("Errojhkhkkjhr en: "+comando);
+          System.out.println("asdasda");
          e.printStackTrace();
       }
       //COMPROBACION DE ERROR - 0 bien - 1 mal
